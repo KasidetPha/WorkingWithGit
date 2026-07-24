@@ -1,0 +1,13 @@
+﻿{
+  "Name": "btn_ClickSearch",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wjwzTEGBTUy8IbpLwfP95Q",
+  "Reference": "lmTLRwz9VEKByt9x3JBY8w/wjwzTEGBTUy8IbpLwfP95Q",
+  "ParentRef": "lmTLRwz9VEKByt9x3JBY8w/FCkgu932m0ejsmjPuvS3yA",
+  "Created": "2026-06-26T07:56:37.2539627Z",
+  "Updated": "2026-06-26T07:56:37.2539627Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qVKscz5nrkyKLyUWay-fGA" Reference="lmTLRwz9VEKByt9x3JBY8w/fM6tkuhwWkuqZQNlsIgQQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopee.co.th/2026-World-Cup-%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5-Molten-%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C-5-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B8%94PU-%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-i.320073058.49861260642" DesignTimeRectangle="202, 59, 899, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='2026 World Cup ลูกฟุตบอล Molten เบอร์ 5 หนังอัดPU ไร้รอยเย็บ เกร*' role='pane' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Address and search bar' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="fab3c617-b947-4c99-895a-895b472c5c0f" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='2026 World Cup ลูกฟุตบอล Molten เบอร์ 5 หนังอัดPU ไร้รอยเย็บ เกร*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1109, 59, 24, 24" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='2026 FIFA World Cup Bounce Ball 6.3 ซม. เส้นผ่านศูนย์กลางความยืด*' role='pane' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Bookmark this tab' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Bookmark this tab' /&gt;" Guid="5da55c0b-74b2-4c11-ae84-1eaea4280af5" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="81ba123d72c89fbf620b6f569e6e64e4.jpg" xmlns="">0eG8Fm-CnpkGqFDLqnpGOHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

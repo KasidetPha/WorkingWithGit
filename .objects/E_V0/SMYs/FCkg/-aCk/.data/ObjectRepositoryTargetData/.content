@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6qVsZjt7eEeC-cAUoXADHw" Reference="lmTLRwz9VEKByt9x3JBY8w/-aCkXhYtsE-_DR2F-Zzw8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopee.co.th/%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%88-Ajazz-AJ139-V2-MC-Tri-Mod(Wired-2.4G-BT)-Wireless-Charging-Mouse-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99-1-%E0%B8%9B%E0%B8%B5-i.29350409.40263255020" ContentHash="g0hgHk-xWkGKUTRhZ_bk7A" DesignTimeRectangle="840, 737, 101, 54" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;html app='chrome.exe' title='* | Shopee Thailand' /&gt;&lt;webctrl parentclass='jRlVo0' parentid='sll2-normal-pdp-main' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='DIV' type='' class='IZPeQz B67UQ0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="d9d83d5e-0f79-4d53-8112-94980d02e8bc" Reference="lmTLRwz9VEKByt9x3JBY8w/-aCkXhYtsE-_DR2F-Zzw8Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='เมาส์เกมมิ่งพร้อมแท่นชาร์จ Ajazz AJ139 V2 MC Tri-Mod(Wired+2.4G+BT) Wireless Charging Mouse รับประกัน 1 ปี | Shopee Thailand' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bacd462535fe7267991b3ce95393b8de.jpg" xmlns="">0XMS5fGEk-USUyWtBdQ3kmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

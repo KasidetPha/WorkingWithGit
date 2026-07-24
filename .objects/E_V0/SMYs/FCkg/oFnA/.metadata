@@ -1,0 +1,17 @@
+﻿{
+  "Name": "card_Shopee",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Id": "oFnAZASVYkS26uWShxlb7g",
+  "Reference": "lmTLRwz9VEKByt9x3JBY8w/oFnAZASVYkS26uWShxlb7g",
+  "ParentRef": "lmTLRwz9VEKByt9x3JBY8w/FCkgu932m0ejsmjPuvS3yA",
+  "Created": "2026-06-26T08:00:44.0788257Z",
+  "Updated": "2026-06-26T08:03:57.7080526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

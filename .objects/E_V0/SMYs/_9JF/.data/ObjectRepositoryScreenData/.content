@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Z_wRDK6d7UqAX1jKKs0IPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1355, -325, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIeSURBVFhH5VfRccMgDM0IGcGfOQd8HiHfKaTeoBkhG7QbtBukG6QbeISM4P/GmBHaEzYOCGKwE/enunt3LchIBb0ndbEYabJIlnKXvTaclg2nPwosO8td9oJ9H26yWCUNp1UfuP1Zmr+DD/7uIWYGl5yevrdpft3LE8Ho56xJCE5PEEDsyBve0yYY+eiSKPHeXSYZ2ei/Du9ha1hbGxdGNnhvstXd9cYUWr2l++6ZjnhvskGVq0M3+RLvYZNFvoy9LcvkNs3hqn3oDpR4/RY0K/C6CTt4kUOFayr9CSym/M8EcD1hhwhUDSOlgq2OUbCCj0qAkbOP40gNg8DfQwKmpt9CBTSD9xOcHhueVUBRUEmtEVozAnApGnONEMTTkKyDPWs+TEygWCU1owVeHw1Gzjh+r3ZDgLc3lO4OELdZ6SYyBMHpO/jWXOl98MZuY2ICAJiGwB+qXiXS0tDxC+ALx1+MoRC8odkZx1LQ2ynHHGCgAjpqWYUaiaEzDC44/tQEeuin6ZJw9k0I5pmqYBE7joXg2QHOChXobAno4goVtHhaq0TtBPj6gB0dBCreuIHBOqh5usfx+1luAIq7HfUc0dKF1WkE/taC5PQZx49JQAmRrnigHhQcSDOoY7uW5qH3B/i6KXSxWI2XinoQuJ/xaHG5/k8QhDcBc5icGzAA4/j6+hznOeCMY9pi3u9u+FqxNjWceir8YWCkhBhmzF/yfom7GQZ1iQAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Shopee Thailand | ช้อปปิ้งออนไลน์ ผ่านมือถือและเว็บไซต์' /&gt;" Url="https://shopee.co.th/" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="3d267cc5d5a5326a94adcab63191d982.jpg" xmlns="">0qbz9xhLIZ0226lxLtYrEFw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

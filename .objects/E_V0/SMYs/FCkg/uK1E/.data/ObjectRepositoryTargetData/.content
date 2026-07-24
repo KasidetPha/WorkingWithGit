@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VD_oOQ8FfkySydTtgkw4rg" Reference="lmTLRwz9VEKByt9x3JBY8w/uK1Eq7PaCk2DMQKslpa0mA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopee.co.th/Decathlon-Running-Socks-3-Pack-Run-100-%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99-Run-100-%E0%B9%81%E0%B8%9E%E0%B9%87%E0%B8%84-3-%E0%B8%84%E0%B8%B9%E0%B9%88-Black-i.1553470092.40808713910" DesignTimeRectangle="84, 417, 1200, 45" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;html app='chrome.exe' title='* | Shopee Thailand' /&gt;&lt;webctrl tag='H1' /&gt;" Guid="6be763dc-c6d5-4b04-8418-adb9fb3f9782" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* | Shopee Thailand' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7705a8b076374ae62ba847099d0a991f.jpg" xmlns="">0phaasnomEkCdV_EeBE5OgQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

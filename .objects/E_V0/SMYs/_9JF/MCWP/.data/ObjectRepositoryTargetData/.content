@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aC40tjWHDUCbceC1Bx827A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopee.co.th" DesignTimeRectangle="382, 305, 1131, 51" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="01c333f1-6a19-43ad-8221-1b810f25dd1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Shopee Thailand | ช้อปปิ้งออนไลน์ ผ่านมือถือและเว็บไซต์' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dabe7d829adc9f40b333735237708d1a.jpg" xmlns="">0SXHpb_1JjEiH85knpQhHsw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

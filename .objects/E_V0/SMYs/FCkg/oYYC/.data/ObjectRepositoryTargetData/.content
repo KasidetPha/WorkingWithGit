@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iIumbuY_EE2Hme7yi9JMsQ" Reference="lmTLRwz9VEKByt9x3JBY8w/oYYCfzHQ_0OwpTGSwWKNiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopee.co.th/%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-30-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%89-HB-%E0%B9%81%E0%B8%94%E0%B8%87-%E0%B8%94%E0%B8%B3-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84-%E0%B8%A1%E0%B8%B52%E0%B8%AA%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81-i.1546182078.53453872691" ContentHash="21s2StQdo026svKw6AjrVA" DesignTimeRectangle="219, 479, 206, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;html app='chrome.exe' title='* | Shopee Thailand' /&gt;&lt;webctrl tag='DIV' class='fV3TIn' parentclass='PYEGyz' /&gt;" Guid="ea68e696-08c9-4095-bb75-f6b675e5baa8" Reference="lmTLRwz9VEKByt9x3JBY8w/oYYCfzHQ_0OwpTGSwWKNiQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* | Shopee Thailand' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="b556168d63a4a3e42df9f69b7259ef08.jpg" xmlns="">0npn8p1cd_UGsDPjmGA43SA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

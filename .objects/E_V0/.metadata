@@ -1,0 +1,15 @@
+﻿{
+  "Name": "shopee",
+  "Type": "App",
+  "Id": "E_V0gmR8wk60yk2QhUDA_w",
+  "Reference": "lmTLRwz9VEKByt9x3JBY8w/E_V0gmR8wk60yk2QhUDA_w",
+  "Created": "2026-06-22T07:31:51.6000316Z",
+  "Updated": "2026-06-26T07:56:36.7501732Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

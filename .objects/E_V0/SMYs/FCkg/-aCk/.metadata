@@ -1,0 +1,17 @@
+﻿{
+  "Name": "dbl_Price",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-aCkXhYtsE-_DR2F-Zzw8Q",
+  "Reference": "lmTLRwz9VEKByt9x3JBY8w/-aCkXhYtsE-_DR2F-Zzw8Q",
+  "ParentRef": "lmTLRwz9VEKByt9x3JBY8w/FCkgu932m0ejsmjPuvS3yA",
+  "Created": "2026-06-22T08:23:49.1404917Z",
+  "Updated": "2026-06-26T08:56:31.573401Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
